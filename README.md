@@ -1,5 +1,6 @@
-# wio-term
-Wio Terminal で L チカする(デバッグ環境用)
+# wio-uart-echo
+
+シリアル入出力でecho
 
 ## setting.json
 
