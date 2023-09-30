@@ -10,5 +10,5 @@ Wio Terminal で L チカする(デバッグ環境用)
 
 ## ブログ
 
-[WioでRust 開発環境を構築する](https://moons.link/wio/post-24/)
+[WioでRust シリアル入出力でecho](https://moons.link/wio/post-300/)
 
